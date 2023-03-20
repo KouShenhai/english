@@ -2,7 +2,7 @@
 - [Scheduled](https://fanyi.baidu.com/#en/zh/Scheduled) [ˈʃedjuːld]
 - [Cache](https://fanyi.baidu.com/#en/zh/Cache)
 - [Executor](https://fanyi.baidu.com/#en/zh/Executor)
-- [Fixed](https://fanyi.baidu.com/#en/zh/Fixed)
+- [Fixed](https://fanyi.baidu.com/#en/zh/Fixed) [fɪkst]
 - [Maximum](https://fanyi.baidu.com/#en/zh/maximum)
 - [AliveTime](https://fanyi.baidu.com/#en/zh/AliveTime)
 - [Unit](https://fanyi.baidu.com/#en/zh/unit)
