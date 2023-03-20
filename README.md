@@ -1,5 +1,5 @@
 # 软件编程常用-英语单词
-- [Scheduled](https://fanyi.baidu.com/#en/zh/Scheduled) (ʃedjuːld)
+- [Scheduled](https://fanyi.baidu.com/#en/zh/Scheduled) [ˈʃedjuːld]
 - [Cache](https://fanyi.baidu.com/#en/zh/Cache)
 - [Executor](https://fanyi.baidu.com/#en/zh/Executor)
 - [Fixed](https://fanyi.baidu.com/#en/zh/Fixed)
@@ -7,7 +7,7 @@
 - [AliveTime](https://fanyi.baidu.com/#en/zh/AliveTime)
 - [Unit](https://fanyi.baidu.com/#en/zh/unit)
 - [Rejected](https://fanyi.baidu.com/#en/zh/Rejected)
-- [Synchronous](https://fanyi.baidu.com/#en/zh/Synchronous)
+- [Synchronous](https://fanyi.baidu.com/#en/zh/Synchronous) [ˈsɪŋkrənəs]
 - [Future](https://fanyi.baidu.com/#en/zh/Future)
 - [](https://fanyi.baidu.com/#en/zh/)
 - [](https://fanyi.baidu.com/#en/zh/)
