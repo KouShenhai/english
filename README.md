@@ -4,7 +4,7 @@
 - [Executor](https://fanyi.baidu.com/#en/zh/Executor)
 - [Fixed](https://fanyi.baidu.com/#en/zh/Fixed)
 - [maximum](https://fanyi.baidu.com/#en/zh/maximum)
-- [Alive Time](https://fanyi.baidu.com/#en/zh/Alive Time)
+- [AliveTime](https://fanyi.baidu.com/#en/zh/AliveTime)
 - [unit](https://fanyi.baidu.com/#en/zh/unit)
 - [](https://fanyi.baidu.com/#en/zh/)
 - [](https://fanyi.baidu.com/#en/zh/)
