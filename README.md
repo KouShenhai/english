@@ -1,5 +1,5 @@
 # 软件编程常用-英语单词
-- [Scheduled](https://fanyi.baidu.com/#en/zh/Scheduled)
+- [Scheduled](https://fanyi.baidu.com/#en/zh/Scheduled) (ʃedjuːld)
 - [Cache](https://fanyi.baidu.com/#en/zh/Cache)
 - [Executor](https://fanyi.baidu.com/#en/zh/Executor)
 - [Fixed](https://fanyi.baidu.com/#en/zh/Fixed)
