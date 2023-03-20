@@ -8,7 +8,7 @@
 - [Unit](https://fanyi.baidu.com/#en/zh/unit)
 - [Rejected](https://fanyi.baidu.com/#en/zh/Rejected)
 - [Synchronous](https://fanyi.baidu.com/#en/zh/Synchronous)
-- [](https://fanyi.baidu.com/#en/zh/)
+- [Future](https://fanyi.baidu.com/#en/zh/Future)
 - [](https://fanyi.baidu.com/#en/zh/)
 - [](https://fanyi.baidu.com/#en/zh/)
 - [](https://fanyi.baidu.com/#en/zh/)
