@@ -2,3 +2,4 @@
 - [Scheduled](https://fanyi.baidu.com/#en/zh/Scheduled)
 - [Cache](https://fanyi.baidu.com/#en/zh/Cache)
 - [Executor](https://fanyi.baidu.com/#en/zh/Executor)
+- [Fixed](https://fanyi.baidu.com/#en/zh/Fixed)
